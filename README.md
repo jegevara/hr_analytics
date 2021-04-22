@@ -5,7 +5,7 @@ We will try to analyse what could be the reason for employees to quit their jobs
 The data is attached as a HR.csv file. It is structured as one dependent (left the company as 1, and stayed in the company as 0)  and nine independent variables. 
 <h3>Analysis</h3>
 Following code helps to deliver answers to following questions:
-<br>
+
 1. Calculate basic statistics for variables (mean, median, mode, min / max, mean deviation)
  
 2. Calculate and visualize correlation matrix for variables
